@@ -13,3 +13,5 @@ day 1
 #alphabetic order
 #amstrong num
 #encapsulation
+#comare string
+#recursion
